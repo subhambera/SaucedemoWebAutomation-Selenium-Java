@@ -155,9 +155,9 @@ public class SauceDemoTests {
         Thread.sleep(2000);
 
         // Fill customer info
-        driver.findElement(By.id("first-name")).sendKeys("John");
-        driver.findElement(By.id("last-name")).sendKeys("Doe");
-        driver.findElement(By.id("postal-code")).sendKeys("12345");
+        driver.findElement(By.id("first-name")).sendKeys("test");
+        driver.findElement(By.id("last-name")).sendKeys("tester");
+        driver.findElement(By.id("postal-code")).sendKeys("875954");
         Thread.sleep(500);
 
         driver.findElement(By.id("continue")).click();
