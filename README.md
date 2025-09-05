@@ -68,7 +68,7 @@ src/test/java/
 
 # 📌 Notes
 
-- BaseTest handles WebDriver lifecycle per test method.
+- main.java handles WebDriver lifecycle per test method.
 
 - Thread.sleep() calls are for demo pacing; prefer WebDriverWait for stability.
 
