@@ -1,6 +1,5 @@
 package SauceDemoWebAutomation;
 
-import SauceDemoWebAutomation.main;
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.*;
 
