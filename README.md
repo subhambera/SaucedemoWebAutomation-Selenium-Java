@@ -78,4 +78,4 @@ src/test/java/
 
 # 👨‍💻 *Subham Bera* - QA Analyst | Automation Enthusiast 
                
-## ✨ Happy Testing! 🚀
+<p align="center", fontsize="bold">✨ Happy Testing! ✨</p>
